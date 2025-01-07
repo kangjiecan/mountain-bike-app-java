@@ -1,1 +1,1 @@
-It needs an openweather api key to complite. 
+It needs an openweather api key to complie. 
